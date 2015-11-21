@@ -88,13 +88,10 @@ footer {
 
 span.red {
   color: red;
+  font-weight: bold;
 }
 
 span.blue {
   color: CornflowerBlue;
   font-weight: bold;
-}
-
-span.cyan {
-  color: cyan;
 }
